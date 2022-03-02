@@ -1,0 +1,6 @@
+DISTRO = "fetchaidistro"
+DISTRO_NAME = "Fetch AI Distro"
+DISTRO_CODENAME = "fetchai"
+DISTRO_VERSION = "1.0.0"
+
+DISTRO_EXTRA_RDEPENDS = " aea"
