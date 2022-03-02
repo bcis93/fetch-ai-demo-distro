@@ -1,0 +1,3 @@
+[submodule "repos/meta-fetch-ai"]
+	path = repos/meta-fetch-ai
+	url = git@github.com:bcis93/meta-fetch-ai.git
